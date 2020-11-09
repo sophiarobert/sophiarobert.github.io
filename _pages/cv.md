@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Biology and Philosophy, Minor in Cognitive Science, Williams College 2018
 * Ph.D in Cognitive Neuroscience, Carnegie Mellon University, 2025 (expected)
+* B.A. in Biology and Philosophy, Minor in Cognitive Science, Williams College 2018
 
 Work experience
 ======
@@ -38,17 +38,17 @@ Skills
 
 Poster Presentations
 ======
-* Robert, S. R., Vaziri-Pashkam, M., Ungerleider, L. G., Motion-based object category responses in the human brain. (Virtual) Vision Sciences Society, FL, June 2020.
+* <b>Robert, S. R.<\b>, Vaziri-Pashkam, M., Ungerleider, L. G., Motion-based object category responses in the human brain. (Virtual) Vision Sciences Society, FL, June 2020.
 
-* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. Society for Neuroscience, Chicago IL, October 2019.
+* <b>Robert, S. R.<\b>, Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. Society for Neuroscience, Chicago IL, October 2019.
 
-* Robert, S. R., Vaziri-Pashkam, M., Ungerleider, L. G., Objects can be categorized based on motion alone. National Institute of Mental Health Training Day, Washington DC, Sept. 2019.
+* <b>Robert, S. R.<\b>, Vaziri-Pashkam, M., Ungerleider, L. G., Objects can be categorized based on motion alone. National Institute of Mental Health Training Day, Washington DC, Sept. 2019.
 
-* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. Vision Sciences Society, St. Pete’s Beach FL, May 2019.
+* <b>Robert, S. R.<\b>, Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. Vision Sciences Society, St. Pete’s Beach FL, May 2019.
 
-* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. National Institutes of Health PostBaccalaureate Poster Day, Washington DC, May 2019.
+* <b>Robert, S. R.<\b>, Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. National Institutes of Health PostBaccalaureate Poster Day, Washington DC, May 2019.
 
-* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. National Institute of Mental Health Training Day, Washington DC, September 2018.
+* <b>Robert, S. R.<\b>, Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. National Institute of Mental Health Training Day, Washington DC, September 2018.
 
 Publications
 ======
