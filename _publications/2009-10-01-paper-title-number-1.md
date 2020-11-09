@@ -10,6 +10,6 @@ citation: 'Yue, X., Robert, S., & Ungerleider, L. (2020). &quot;Curvature proces
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](https://reader.elsevier.com/reader/sd/pii/S1053811920307813?token=6094550B55A63C73CFFF51E9BCA01A6F64B7E8504463A32211F04D92108EC43C244CEE2945418D6C91C93B193D209A38)
+[Download paper here](https://sophiarobert.github.io/files/Curvature_processing_in_human_visual_cortical_areas.pdf)
 
 Recommended citation: Yue, X., Robert, S., & Ungerleider, L. (2020). &quot;Curvature processing in human visual cortical areas.&quot; <i>NeuroImage</i>. 222, 117295.
