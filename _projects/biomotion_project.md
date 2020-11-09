@@ -1,7 +1,7 @@
 ---
 title: "Isolating Motion Signals from Other Category Relevant Sources of Information"
 excerpt: "Reptiles<br/><video width=autoplay loop src='/files/306.mp4'><br/>"
-collection: portfolio
+collection: projects
 ---
 
 "Reptiles<br/><video autoplay loop src='/files/306.mp4'><br/>"
