@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Post-baccalaureate Research Fellow: 2018 - 2020
+* Post-baccalaureate Research Fellow \| 2018 - 2020
   * Intramural Research Training Award, National Institute of Mental Health
   * National Institutes of Health
   * Bethesda, MD
@@ -59,11 +59,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
