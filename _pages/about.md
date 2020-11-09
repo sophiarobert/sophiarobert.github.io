@@ -9,7 +9,6 @@ redirect_from:
 header:
   overlay_image: eyes.jpg
   overlay_filter: 0.15
-  caption: "source: my teen self"
 ---
 
 The highly structured nature of the physical world has allowed our brain and peripheral nervous system to evolve neural machinery and learning mechanisms that exploit statistical regularities to do useful things, like using visual information to perform complex tasks, such as instantly recognizing objects, with high accuracy. We wouldn't be able to learn to do this if the world were completely random. What can the functional organization of visual cortex tell us about the way our brain has evolved to achieve this impressive feat? 
