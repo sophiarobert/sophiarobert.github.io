@@ -38,6 +38,8 @@ Skills
 
 Poster Presentations
 ======
+* Robert, S. R., Vaziri-Pashkam, M., Ungerleider, L. G., Motion-based object category responses in the human brain. (Virtual) Vision Sciences Society, FL, June 2020.
+
 * Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. Society for Neuroscience, Chicago IL, October 2019.
 
 * Robert, S. R., Vaziri-Pashkam, M., Ungerleider, L. G., Objects can be categorized based on motion alone. National Institute of Mental Health Training Day, Washington DC, Sept. 2019.
