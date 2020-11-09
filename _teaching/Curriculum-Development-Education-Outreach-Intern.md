@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Development Education Outreach Intern"
 collection: teaching
-type: "internship"
+type: "Intern"
 permalink: 
 venue: "Williams College, Center for Learning in Action"
 date: 2017-06-01 Summer
