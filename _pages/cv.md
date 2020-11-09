@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Biology and Philosophy, Minor in Cognitive Science, Williams College 2018
+* Ph.D in Cognitive Neuroscience, Carnegie Mellon University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Post-baccalaureate Research Fellow
+  * Intramural Research Training Award, National Institute of Mental Health
+  * National Institutes of Health
+  * Bethesda, MD
+  * Duties included: 
+    * macaque behavioral training and testing
+    * macaque single unit electrophysiological recording
+    * human online behavioral testing
+    * human functional magnetic resonance imaging
+  * Supervisors: Dr. Leslie Ungerleider, Dr. Xiaomin Yue, Dr. Maryam Vaziri-Pashkam
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Matlab | proficient
+  * R | proficient
+  * Python | experienced
+  * html | learning
+  * javascript | learning
+
+Poster Presentations
+======
+Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
+posterior curvature-biased patch in monkeys. Society for Neuroscience, Chicago
+IL, October 2019.
+Robert, S. R., Vaziri-Pashkam, M., Ungerleider, L. G., Objects can be categorized based on
+motion alone. National Institute of Mental Health Training Day, Washington DC, Sept. 2019.
+Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
+posterior curvature-biased patch in monkeys. Vision Sciences Society, St. Pete’s Beach FL,
+May 2019.
+Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
+posterior curvature-biased patch in monkeys. National Institutes of Health PostBaccalaureate Poster Day, Washington DC, May 2019.
+Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
+posterior curvature-biased patch in monkeys. National Institute of Mental Health Training
+Day, Washington DC, September 2018.
 
 Publications
 ======
