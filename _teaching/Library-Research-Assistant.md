@@ -1,7 +1,7 @@
 ---
 title: "Library Research Assistant"
 collection: teaching
-type: "Undergraduate"
+type: "undergraduate"
 permalink: 
 venue: "Williams College, Sawyer Library"
 date: 2014-08-01 - 2018-05-30
