@@ -12,7 +12,7 @@ The highly structured nature of the physical world has allowed our brain and per
 
 We know that there is great regularity in the object category related functional topography of the visual cortex of neurotypical adult brains. There is active debate in our field regarding the extent to which the brain is innately equipped with machinery to perform tasks such as object reocognition, especially for objects that are thought of as 'special' at birth such as faces, relative to its dependence on learning (through experience) the statistical regularities that are predictive of the object categories that are important to us. I think this debate is super fun. In my research, I use behavioral, neuroimaging, and artificial intelligence methods to understand visual object recognition and the neural and computational principles that drive the functional organization of visual cortex.
 
-images/eyes.jpg
+sophiarobert.github.io/images/eyes.jpg
 {: .align-right .width-half .top-pad}
 
 Hello, welcome to my page. My name is Sophie. I am a graduate student at Carnegie Mellon University, pursuing my PhD in Cognitive Neuroscience through the Psychology Deparatment and the Center for the Neural Basis of Cognition. 
