@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "undergraduate"
+type: "Teaching Assistant"
 permalink: 
 venue: "Williams College, Biology Department, Neuroscience Lab"
 date: 2016-08-01 Fall
