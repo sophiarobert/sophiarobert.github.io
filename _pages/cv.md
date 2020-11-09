@@ -38,19 +38,11 @@ Skills
 
 Poster Presentations
 ======
-Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
-posterior curvature-biased patch in monkeys. Society for Neuroscience, Chicago
-IL, October 2019.
-Robert, S. R., Vaziri-Pashkam, M., Ungerleider, L. G., Objects can be categorized based on
-motion alone. National Institute of Mental Health Training Day, Washington DC, Sept. 2019.
-Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
-posterior curvature-biased patch in monkeys. Vision Sciences Society, St. Pete’s Beach FL,
-May 2019.
-Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
-posterior curvature-biased patch in monkeys. National Institutes of Health PostBaccalaureate Poster Day, Washington DC, May 2019.
-Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of
-posterior curvature-biased patch in monkeys. National Institute of Mental Health Training
-Day, Washington DC, September 2018.
+* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. Society for Neuroscience, Chicago IL, October 2019.
+* Robert, S. R., Vaziri-Pashkam, M., Ungerleider, L. G., Objects can be categorized based on motion alone. National Institute of Mental Health Training Day, Washington DC, Sept. 2019.
+* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. Vision Sciences Society, St. Pete’s Beach FL, May 2019.
+* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. National Institutes of Health PostBaccalaureate Poster Day, Washington DC, May 2019.
+* Robert, S. R., Yetter, M., Yue, X., Ungerleider, L. G., Electrophysiological investigation of posterior curvature-biased patch in monkeys. National Institute of Mental Health Training Day, Washington DC, September 2018.
 
 Publications
 ======
