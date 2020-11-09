@@ -1,7 +1,7 @@
 ---
 title: "Academic Tutor"
 collection: teaching
-type: "undergraduate"
+type: "Tutoring"
 permalink: 
 venue: "Williams College - Neuroscience, Cognitive Science, Cognitive Psychology, Genetics"
 date: 2016-01-01 - 2018-05-30
