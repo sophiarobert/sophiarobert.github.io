@@ -3,6 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  overlay_image: eyes.jpg
+  overlay_filter: 0.15
 ---
 
 {% if author.googlescholar %}
