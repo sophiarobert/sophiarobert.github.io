@@ -1,6 +1,6 @@
 ---
 title: "Video Stimuli"
-excerpt: "Short description of portfolio item number 1<br/><video width="99%" height="540" autoplay loop muted src='/files/306.mp4'>"
+excerpt: "Short description of portfolio item number 1<br/><video autoplay loop src='/files/306.mp4'>"
 collection: portfolio
 ---
 
