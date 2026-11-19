@@ -1,17 +1,19 @@
 ---
-layout: archive
+layout: modern
 title: "Projects"
-permalink: /Projects/
-author_profile: true
-header:
-  overlay_image: eyes.jpg
-  overlay_filter: 0.15
+permalink: /projects/
+description: "Visual motion research project stimulus examples."
+redirect_from:
+  - /Projects/
 ---
-
-{% include base_path %}
-
-
-{% for post in site.projects %}
-  {% include archive-single.html %}
+<header class="page-intro"><div class="shell"><p class="eyebrow">Project gallery</p><h1>Seeing categories in motion.</h1><p class="lead">Illustrative motion stimuli from work exploring how the movements of objects and animals convey category information.</p></div></header>
+<section class="section"><div class="shell"><div class="project-videos">
+{% assign motion_labels = "Reptiles|Vehicles|Balls|Mammals|Pendulums or swings|Birds|Tools|Humans" | split: "|" %}
+{% assign motion_files = "306|317|319|324|336|343|354|367" | split: "|" %}
+{% for label in motion_labels %}
+<figure class="project-video">
+<video controls muted loop playsinline preload="metadata" aria-label="{{ label }} motion example"><source src="{{ '/files/' | append: motion_files[forloop.index0] | append: '.mp4' | relative_url }}" type="video/mp4">Your browser does not support video playback.</video>
+<figcaption>{{ label }}</figcaption>
+</figure>
 {% endfor %}
-
+</div><p class="note" style="margin-top:1.5rem">Eight brief motion examples. Select play on a video to view it.</p><div class="button-row"><a class="btn btn-outline" href="{{ '/research/' | relative_url }}">Back to research</a></div></div></section>
