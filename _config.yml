@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sophie Robert"
+title                    : "Sophie Robert, Ph.D."
 title_separator          : "-"
 name                     : &name "Sophie Robert"
-description              : &description "Research in visual cognition, object recognition, and the functional organization of visual cortex."
+description              : &description "Postdoctoral researcher at New York University studying visual perception, cortical organization, and plasticity."
 url                      : https://sophiarobert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sophiarobert/sophiarobert.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@s_r_hamasaki"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sophie Robert"
   avatar           : "profile_picture.jpg"
-  bio              : "Research in visual perception and cognitive neuroscience"
-  location         :
-  employer         :
+  bio              : "Postdoctoral researcher in visual neuroscience at New York University"
+  location         : "New York, NY"
+  employer         : "New York University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=sophia+robert"
   googlescholar    : "https://scholar.google.com/citations?user=OXEjP9UAAAAJ&hl=en"
-  email            :
+  email            : "sophia.robert@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@s_r_hamasaki"
+  twitter          :
   vine             :
   weibo            :
   xing             :
