@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sophie Robert"
 title_separator          : "-"
 name                     : &name "Sophie Robert"
-description              : &description ""
+description              : &description "Research in visual cognition, object recognition, and the functional organization of visual cortex."
 url                      : https://sophiarobert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sophiarobert/sophiarobert.github.io"
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "facebook" #, "google-plus", "staticman", "custom", "disqus", "discourse",false (default)
+  provider               : false #, "google-plus", "staticman", "custom", "disqus", "discourse",false (default)
   disqus:
     shortname            :
   discourse:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sophie Robert"
   avatar           : "profile_picture.jpg"
-  bio              : "PhD Student in Cognitive Neuroscience at Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Research in visual perception and cognitive neuroscience"
+  location         :
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=sophia+robert"
   googlescholar    : "https://scholar.google.com/citations?user=OXEjP9UAAAAJ&hl=en"
@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
