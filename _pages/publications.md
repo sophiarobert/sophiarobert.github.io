@@ -33,12 +33,10 @@ description: "Peer-reviewed publications and preprints by Sophie Robert in visua
       
       
     </div></article>
-    <article class="pub-card"><div class="pub-year">2025</div><div>
+    <article class="pub-card"><div class="pub-year">2024</div><div>
       <p class="venue">iScience · 27(12), 111440</p>
-      <h2>Functional resilience of the neural visual recognition system post-pediatric occipitotemporal resection</h2>
-      <p class="citation">Granovetter, M. C., Maallo, A. M. S., Ling, S., Robert, S., Freud, E., Patterson, C., &amp; Behrmann, M. (2025).</p>
-      <p class="note">Year and journal metadata reproduced from the uploaded CV; verification recommended.</p>
-      
+      <h2><a href="https://doi.org/10.1016/j.isci.2024.111440" target="_blank" rel="noopener noreferrer">Functional resilience of the neural visual recognition system post-pediatric occipitotemporal resection <span aria-hidden="true">↗</span></a></h2>
+      <p class="citation">Granovetter, M. C., Maallo, A. M. S., Ling, S., Robert, S., Freud, E., Patterson, C., &amp; Behrmann, M. (2024).</p>
     </div></article>
     <article class="pub-card"><div class="pub-year">2024</div><div>
       <p class="venue">Proceedings of the National Academy of Sciences · 121(28), e2317458121</p>
@@ -69,8 +67,8 @@ description: "Peer-reviewed publications and preprints by Sophie Robert in visua
       
     </div></article>
     <article class="pub-card"><div class="pub-year">2022</div><div>
-      <p class="venue">Proceedings of the National Academy of Sciences</p>
-      <h2>In childhood hemispherectomy, one hemisphere can support but is suboptimal for word and face recognition</h2>
+      <p class="venue">Proceedings of the National Academy of Sciences · 119(44), e2212936119</p>
+      <h2><a href="https://doi.org/10.1073/pnas.2212936119" target="_blank" rel="noopener noreferrer">With childhood hemispherectomy, one hemisphere can support but is suboptimal for word and face recognition <span aria-hidden="true">↗</span></a></h2>
       <p class="citation">Granovetter, M. C., Robert, S., Ettensohn, L., &amp; Behrmann, M. (2022).</p>
       
       
