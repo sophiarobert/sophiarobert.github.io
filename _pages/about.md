@@ -1,23 +1,95 @@
 ---
+layout: modern
 permalink: /
-title:
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "Home"
+description: "Sophie Robert studies visual cognition and the organization of visual cortex."
+redirect_from:
   - /about/
   - /about.html
-header:
-  overlay_image: eyes.jpg
-  overlay_filter: 0.15
 ---
 
-Disclaimer: website is still under construction pls forgive buggy links~
+<section class="hero">
+  <div class="shell hero-grid">
+    <div>
+      <p class="eyebrow">Cognitive neuroscience · Visual perception</p>
+      <h1 class="hero-title">Curious about <span>how we see.</span></h1>
+      <p class="lead">I’m <strong>Sophie Robert</strong>, a cognitive neuroscience researcher interested in how the visual system organizes information to make sense of the world.</p>
+      <p class="lead">My work draws on human and nonhuman primate neuroscience, behavioral experiments, and computational approaches to investigate how visual information becomes meaningful perception.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a>
+        <a class="btn btn-outline" href="{{ '/publications/' | relative_url }}">Read publications</a>
+      </div>
+    </div>
+    <div>
+      <div class="hero-photo-frame">
+        <img class="hero-photo" src="{{ '/images/profile_picture.jpg' | relative_url }}" alt="Portrait of Sophie Robert" width="600" height="750">
+      </div>
+      <p class="hero-caption">Vision, brains, and the things we recognize.</p>
+    </div>
+  </div>
+</section>
 
-The highly structured nature of the physical world has allowed our brain and peripheral nervous system to evolve neural machinery and learning mechanisms that exploit statistical regularities to do useful things, like using visual information to perform complex tasks, such as instantly recognizing objects, with high accuracy. We wouldn't be able to learn to do this if the world were completely random. What can the functional organization of visual cortex tell us about the way our brain has evolved to achieve this impressive feat? 
+<section class="section section-contrast">
+  <div class="shell">
+    <div class="section-heading">
+      <div><p class="eyebrow">What I study</p><h2>Questions that drive my work</h2></div>
+      <a class="text-link" href="{{ '/research/' | relative_url }}">Research overview <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="card-grid">
+      <article class="card">
+        <span class="card-label">01 · Organization</span>
+        <h3>Maps of visual cortex</h3>
+        <p>How do patterns of cortical organization reflect the information our brains need to recognize the visual world?</p>
+      </article>
+      <article class="card">
+        <span class="card-label">02 · Representation</span>
+        <h3>Shape and object features</h3>
+        <p>What role do curvature and other visual features play in organizing and interpreting object information?</p>
+      </article>
+      <article class="card">
+        <span class="card-label">03 · Perception</span>
+        <h3>Recognizing objects in motion</h3>
+        <p>How can motion alone support object-category recognition, and what does that reveal about visual representation?</p>
+      </article>
+    </div>
+  </div>
+</section>
 
-We know that there is great regularity in the object category related functional topography of the visual cortex of neurotypical adult brains. There is active debate in our field regarding the extent to which the brain is innately equipped with machinery to perform tasks such as object reocognition, especially for objects that are thought of as 'special' at birth such as faces, relative to its dependence on learning (through experience) the statistical regularities that are predictive of the object categories that are important to us. I think this debate is super fun. In my research, I use behavioral, neuroimaging, and artificial intelligence methods to understand visual object recognition and the neural and computational principles that drive the functional organization of visual cortex.
+<section class="section">
+  <div class="shell">
+    <div class="section-heading">
+      <div><p class="eyebrow">Selected work</p><h2>Research highlights</h2></div>
+      <a class="text-link" href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="card-grid card-grid--two">
+      <article class="card">
+        <span class="card-label">NeuroImage · 2020</span>
+        <h3>Curvature processing in human visual cortical areas</h3>
+        <p>Using human fMRI to study how visual cortical regions respond to curvilinear and rectilinear features.</p>
+        <a class="text-link" href="{{ '/publications/' | relative_url }}">Publication details <span aria-hidden="true">↗</span></a>
+      </article>
+      <article class="card">
+        <span class="card-label">bioRxiv · 2020</span>
+        <h3>Curvilinear features and animate/inanimate categorization</h3>
+        <p>Investigating how curvilinear image information supports object categorization in macaques.</p>
+        <a class="text-link" href="{{ '/publications/' | relative_url }}">Publication details <span aria-hidden="true">↗</span></a>
+      </article>
+    </div>
+  </div>
+</section>
 
-Hello, welcome to my page. My name is Sophie. I am a graduate student at Carnegie Mellon University, pursuing my PhD in Cognitive Neuroscience through the Psychology Department and the Center for the Neural Basis of Cognition. 
-
-I went to Williams College to study philosophy of cognitive science and the biology of genetic evolution and animal behavior. In my undergraduate research, I studied theoretical frameworks for relating structures in implementation level dynamics (e.g. neural, or individual organisms) to larger-scale phenomena. At the end of undergrad, I realized that my interests in theoretical cognitive science and philosophy of representations in science were highly compatible with empirical pursuits in cognitive neuroscience, so I applied to work in the Lab of Brain and Cognition at the NIH with Dr. Leslie Ungerleider in comparative visual cognitive neuroscience. It was at the NIH working with Dr. Xiaomin Yue and Dr. Maryam Vaziri-Pashkam on human and macaque research that I began to develop the specific interests that I mentioned above. 
-
+<section class="section section-contrast">
+  <div class="shell">
+    <div class="section-heading">
+      <div><p class="eyebrow">Background</p><h2>Research across methods</h2></div>
+    </div>
+    <div class="prose">
+      <p>My path into visual neuroscience began at Williams College, where I studied biology and philosophy and pursued questions about cognition, representation, and the natural world. At the National Institutes of Health, I worked on visual cognition research with human participants and macaques.</p>
+      <p>I later pursued doctoral research in cognitive neuroscience at Carnegie Mellon University, focusing on the functional organization of visual cortex. Across settings, I’m drawn to questions that connect careful experiments with bigger ideas about how perception works.</p>
+      <div class="button-row">
+        <a class="btn btn-primary" href="{{ '/cv/' | relative_url }}">Background &amp; CV</a>
+        <a class="btn btn-outline" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">↗</span></a>
+      </div>
+    </div>
+  </div>
+</section>
